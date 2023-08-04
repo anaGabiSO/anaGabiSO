@@ -1,0 +1,13 @@
+#bem vindo
+---
+
+- 👋 oi, eu sou @anaGabiSO
+- 👀 estou interessado em criar jogos ...
+- 🌱 atualmente estou estudando sobre javascript...
+- 💞️ estou trabalhando com os projetos de pensamento computacional ...
+- 📫 você pode entrar em contato comigo pelo email ana.santos.oliveira31@escola.pr.gov.br ...
+
+<!---
+anaGabiSO/anaGabiSO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
